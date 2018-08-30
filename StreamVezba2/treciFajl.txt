@@ -1,0 +1,2 @@
+Ovo je tekst iz fajla prviFajl
+Ovo je text u fajlu drugiFajl
